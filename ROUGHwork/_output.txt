@@ -1,0 +1,20 @@
+Test Case #1: 
+string length: 2
+string: 10
+respective integer: 1
+------------X--X--X------------
+Test Case #2: 
+string length: 2
+string: 11
+respective integer: 3
+------------X--X--X------------
+Test Case #3: 
+string length: 3
+string: 101
+respective integer: 5
+------------X--X--X------------
+Test Case #4: 
+string length: 3
+string: 110
+respective integer: 3
+------------X--X--X------------
